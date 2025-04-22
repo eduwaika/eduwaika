@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @eduwaika
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Amadi Chinedu Joseph
 
-<!---
-eduwaika/eduwaika is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Aspiring SQL Developer specializing in Microsoft T-SQL, and MySQL  
+Currently building real-world database projects including:
+- Hospital Database System (SQL Server)
+- Nigerian Students Academic Performance Tracker (MySQL)
+
+Skills
+SQL, T-SQL, MySQL
+Database Design & Development
+Data Analysis
+
+Projects
+Check out my repositories to see my portfolio projects!
+
+Note: All data used in my projects are sample data only, not real data.
+
+
+Let's connect!  
+Emaail: eduwaika2@gmail.com  
+LinkedIn: https://www.linkedin.com/in/chinedu-amadi-2a6177294
+
